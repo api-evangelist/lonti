@@ -1,10 +1,10 @@
 aid: lonti
 name: Lonti
 description: >-
-  Empower data-driven decision-making and insights with the combined power of
-  Martini, Bellini, and Negroni. Seamlessly integrate data sources, create
-  intelligent applications, and model data effectively to unlock the full
-  potential of your organizations data assets. 
+  Empower data-driven decision-making and insights with the combined power of Martini,
+  Bellini, and Negroni. Seamlessly integrate data sources, create intelligent applications,
+  and model data effectively to unlock the full potential of your organizations data
+  assets.
 type: Index
 position: Consumer
 access: 3rd-Party
@@ -20,10 +20,10 @@ apis:
   - aid: lonti:lonti
     name: Lonti
     description: >-
-      Empower data-driven decision-making and insights with the combined power
-      of Martini, Bellini, and Negroni. Seamlessly integrate data sources,
-      create intelligent applications, and model data effectively to unlock the
-      full potential of your organizations data assets. 
+      Empower data-driven decision-making and insights with the combined power of
+      Martini, Bellini, and Negroni. Seamlessly integrate data sources, create intelligent
+      applications, and model data effectively to unlock the full potential of your
+      organizations data assets.
     humanURL: ' https://www.lonti.com/'
     tags:
       - API
