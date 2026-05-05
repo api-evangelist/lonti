@@ -1,0 +1,13 @@
+{
+  "repo": "lonti",
+  "feeds": [
+    {
+      "source": "https://www.lonti.com/blog",
+      "feed_url": "https://www.lonti.com/blog/rss.xml",
+      "saved": 10,
+      "title": "Toro Cloud Blog"
+    }
+  ],
+  "post_count": 10,
+  "fetched": "2026-05-03T23:30:43Z"
+}
