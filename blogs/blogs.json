@@ -4,10 +4,10 @@
     {
       "source": "https://www.lonti.com/blog",
       "feed_url": "https://www.lonti.com/blog/rss.xml",
-      "saved": 10,
-      "title": "Toro Cloud Blog"
+      "title": "Toro Cloud Blog",
+      "saved": 0
     }
   ],
   "post_count": 10,
-  "fetched": "2026-05-03T23:30:43Z"
+  "fetched": "2026-05-09T20:17:51Z"
 }
