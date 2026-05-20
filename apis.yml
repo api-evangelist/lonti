@@ -86,6 +86,8 @@ apis:
       - type: SignUp
         url: https://console.lonti.com/signup
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/lonti
   - type: Website
     url: https://www.lonti.com
   - type: Documentation
