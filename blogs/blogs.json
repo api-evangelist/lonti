@@ -2,12 +2,20 @@
   "repo": "lonti",
   "feeds": [
     {
-      "source": "https://www.lonti.com/blog",
+      "source": "https://www.lonti.com/blog/rss.xml",
       "feed_url": "https://www.lonti.com/blog/rss.xml",
-      "title": "Toro Cloud Blog",
-      "saved": 4
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
+      "source": "https://www.lonti.com/pricing",
+      "feed_url": "https://www.lonti.com/pricing",
+      "title": "",
+      "saved": 0,
+      "method": "none"
     }
   ],
   "post_count": 14,
-  "fetched": "2026-05-17T20:20:35Z"
+  "fetched": "2026-06-01T23:35:02Z"
 }
