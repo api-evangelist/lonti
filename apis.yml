@@ -9,7 +9,7 @@ description: >-
 type: Index
 position: Consumer
 access: 3rd-Party
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 url: >-
   https://raw.githubusercontent.com/api-evangelist/lonti/refs/heads/main/apis.yml
 created: '2025-05-02'
@@ -29,7 +29,7 @@ apis:
       developers to create, consume, publish, integrate, and automate APIs.
       It supports Git integration, professional IDEs, and provides tools for
       building API-driven workflows and integrations.
-    image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://www.lonti.com/products/martini
     baseURL: https://console.lonti.com
     tags:
@@ -57,7 +57,7 @@ apis:
       Bellini is Lonti's data modeling and management product designed to help
       organizations effectively model and manage data assets across their
       integration landscape.
-    image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://www.lonti.com/products/bellini
     tags:
       - Data Management
@@ -74,7 +74,7 @@ apis:
       Negroni is Lonti's product for building intelligent applications on top
       of integrated data sources, enabling data-driven insights and decision
       making.
-    image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://www.lonti.com/products/negroni
     tags:
       - Applications
