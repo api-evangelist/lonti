@@ -86,6 +86,10 @@ apis:
       - type: Signup
         url: https://console.lonti.com/signup
 common:
+  - type: TrustCenter
+    url: security/lonti-trust-center.yml
+  - type: DomainSecurity
+    url: security/lonti-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/lonti
   - type: Website
