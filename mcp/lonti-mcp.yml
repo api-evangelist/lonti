@@ -50,3 +50,23 @@ tool_quality:
   scored: false
   note: Facts from the saved tools/list capture (mcp_tool_quality.py); recorded, not scored. Checks learned
     from Glimind's agent-readiness audit.
+tools:
+- name: searchMartiniDocumentation
+  description: Search the Martini documentation
+- name: searchMartiniCommunityPosts
+  description: Search the Martini community user questions and answers
+- name: searchMartiniArticles
+  description: Search the Martini knowledge base articles
+- name: searchBelliniDocumentation
+  description: Search the Bellini documentation
+- name: searchBelliniCommunityPosts
+  description: Search the Bellini community user questions and answers
+- name: searchBelliniArticles
+  description: Search the Bellini knowledge base articles
+- name: searchNegroniDocumentation
+  description: Search the Negroni documentation
+- name: searchNegroniCommunityPosts
+  description: Search the Negroni community user questions and answers
+- name: searchNegroniArticles
+  description: Search the Negroni knowledge base articles
+tools_count: 9
