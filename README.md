@@ -1,4 +1,4 @@
-# Lonti (lonti)
+# Lonti
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,90 +66,114 @@
 
 Lonti is a low-code integration and API platform offering Martini (iPaaS for building, consuming, publishing, and automating APIs), Bellini (data modeling and management), and Negroni (intelligent applications), enabling organizations to integrate data sources, create intelligent applications, and unlock the full potential of their data assets.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/lonti/refs/heads/main/apis.yml)
+**Areas:** Automation · Data Integration · iPaaS · Low-Code
 
-## Scope
+## Lonti on APIs.io
 
-- **Type:** Index
-- **Position:** Consumer
-- **Access:** 3rd-Party
+Everything profiled for Lonti is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/lonti/](https://apis.io/providers/lonti/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+### APIs (3)
 
-- API
-- Automation
-- Data Integration
-- iPaaS
-- Low-Code
+- [Lonti Martini](https://apis.io/apis/lonti/martini/) — Martini is Lonti's low-code integration platform (iPaaS) that allows developers to create, consume, publish, integrate, and automate APIs. It supports Git…
+- [Lonti Bellini](https://apis.io/apis/lonti/bellini/) — Bellini is Lonti's data modeling and management product designed to help organizations effectively model and manage data assets across their integration…
+- [Lonti Negroni](https://apis.io/apis/lonti/negroni/) — Negroni is Lonti's product for building intelligent applications on top of integrated data sources, enabling data-driven insights and decision making.
 
-## Timestamps
+### Published properties
 
-- **Created:** 2025-05-02
-- **Modified:** 2026-04-28
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### MCP servers (1)
 
-### Lonti Martini
-Martini is Lonti's low-code integration platform (iPaaS) that allows developers to create, consume, publish, integrate, and automate APIs. It supports Git integration, professional IDEs, and provides tools for building API-driven workflows and integrations.
+Model Context Protocol servers that expose the API to agents.
 
-**Human URL:** [https://www.lonti.com/products/martini](https://www.lonti.com/products/martini)
-**Base URL:** https://console.lonti.com
+- [Moved to /providers/lonti/](https://apis.io/servers/lonti/lonti/)
 
-#### Tags
-- API Management
-- Automation
-- iPaaS
-- Integration
-- Low-Code
+#### Security (2)
 
-#### Properties
-- [Documentation](https://community.lonti.com/docs)
-- [Getting Started](https://community.lonti.com/docs)
-- [Sign Up](https://console.lonti.com/signup)
-- [Login](https://console.lonti.com/login)
-- [Pricing](https://www.lonti.com/pricing)
-- [Support](https://community.lonti.com/support)
+Authentication, trust centre, and vulnerability disclosure.
 
-### Lonti Bellini
-Bellini is Lonti's data modeling and management product designed to help organizations effectively model and manage data assets across their integration landscape.
+- [Lonti Domain Security](https://apis.io/security/lonti/lonti-domain-security/)
+- [Lonti Trust Center](https://apis.io/security/lonti/lonti-trust-center/)
 
-**Human URL:** [https://www.lonti.com/products/bellini](https://www.lonti.com/products/bellini)
+#### Plans and pricing (1)
 
-#### Tags
-- Data Management
-- Data Modeling
-- Integration
+Published plans, tiers and prices.
 
-#### Properties
-- [Documentation](https://community.lonti.com/docs)
-- [Sign Up](https://console.lonti.com/signup)
+- [Lonti Plans Pricing](https://apis.io/plans/lonti/lonti-plans-pricing/)
 
-### Lonti Negroni
-Negroni is Lonti's product for building intelligent applications on top of integrated data sources, enabling data-driven insights and decision making.
+#### Rate limits (1)
 
-**Human URL:** [https://www.lonti.com/products/negroni](https://www.lonti.com/products/negroni)
+Published request limits.
 
-#### Tags
-- Applications
-- Data
-- Intelligent Apps
+- [Lonti Rate Limits](https://apis.io/rate-limits/lonti/lonti-rate-limits/)
 
-#### Properties
-- [Documentation](https://community.lonti.com/docs)
-- [Sign Up](https://console.lonti.com/signup)
+#### FinOps (1)
 
-## Common Properties
+What the API costs to run, by operation.
+
+- [Lonti Finops](https://apis.io/finops/lonti/lonti-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.lonti.com)
 - [Documentation](https://community.lonti.com/docs)
-- [Community](https://community.lonti.com)
-- [Support](https://community.lonti.com/support)
-- [Login](https://console.lonti.com/login)
-- [Sign Up](https://console.lonti.com/signup)
 - [Pricing](https://www.lonti.com/pricing)
+- [Support](https://community.lonti.com/support)
 - [Blog](https://www.lonti.com/blog)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
-**Email:** kin@apievangelist.com
+**Kin Score 18.4** — emerging · rubric 0.25.0 · scored 2026-10-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 56.7 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 7.9 |
+| Developer ergonomics | 28.6 |
+| Access clarity | 32.9 |
+
+**Agent readiness 9.3** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | verified |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 10.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/lonti/](https://apis.io/providers/lonti/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Lonti: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/lonti/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
